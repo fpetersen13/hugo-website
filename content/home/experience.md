@@ -25,7 +25,7 @@ experience:
   - title: PhD Student
     company: Carlson School of Management
     company_url: ''
-    company_logo: carlson
+    company_logo: ''
     location: Minnesota, USA
     date_start: '2020-09-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Aftermarket Business Development
     company: LESER GmbH & Co. KG
     company_url: ''
-    company_logo: LESER
+    company_logo: ''
     location: Hamburg, Germany
     date_start: '2017-08-01'
     date_end: '2020-08-31'
