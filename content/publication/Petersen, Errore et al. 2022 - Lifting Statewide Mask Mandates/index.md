@@ -46,7 +46,7 @@ draft: false
 featured: false
 projects: []
 slides: ""
-url_pdf: "http://dx.doi.org/10.1097/MLR.0000000000001725"
+url_article: "http://dx.doi.org/10.1097/MLR.0000000000001725"
 summary: ""
 url_dataset: ""
 url_project: ""

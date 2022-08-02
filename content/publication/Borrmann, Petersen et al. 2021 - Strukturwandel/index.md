@@ -10,11 +10,11 @@ authors:
 publication: Springer Gabler
 draft: false
 featured: false
-url_pdf: "https://link.springer.com/chapter/10.1007/978-3-658-28112-0_11"
+url_article: "https://link.springer.com/chapter/10.1007/978-3-658-28112-0_11"
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-08-02T17:22:40.559Z
+date: 2021-01-01T00:00:00.000Z
 publishDate: 2021-01-01T00:00:00.000Z
 ---
