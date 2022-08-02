@@ -13,6 +13,11 @@ title: Teaching
 subtitle: ''
 
 content:
+  # Filter on criteria
+  filters:
+    folders:
+      - teaching
+  
   # Page type to display. E.g. project.
   page_type: project
 
