@@ -1,87 +1,67 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Lifting Statewide Mask Mandates and COVID-19 Cases: A Synthetic Control Study"
+subtitle: ""
+publication_types:
+  - "2"
 authors:
   - admin
   - Robert Ford
+publication_short: ""
+abstract: >-
+  Importance: 
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  As states reopened their economies state and local officials made decisions on policies and restrictions that had an impact on the evolution of the pandemic and the health of the citizens. Some states made the decision to lift mask mandates starting spring 2021. Data-driven methods help evaluate the appropriateness and consequences of such decisions.
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+  Objective: 
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
+  To investigate the association of lifting the mask mandate with changes in the cumulative coronavirus case rate.
 
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+  Design: 
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+  Synthetic control study design on lifting mask mandate in the state of Iowa implemented on February 7, 2021.
 
-tags: []
 
-# Display this page in the Featured widget?
+  Setting: 
+
+  Daily state-level data from the COVID-19 Community Profile Report published by the US Department of Health & Human Services, COVIDcast dataset of the Delphi Research Group, and Google Community Mobility Reports.
+
+
+  Exposures and Outcome: 
+
+  Mask mandate policy lift at the state level. State-day observations of the cumulative case rate measured as the cumulative number of new cases per 100,000 people in the previous 7 days.
+
+
+  Results: 
+
+  The cumulative case rate in Iowa increased by 20%–30% within 3 weeks of lifting the mask mandate as compared with a synthetic control unit. This association appeared to be related to people, in fact, reducing their mask-wearing habits.
+
+
+  Conclusions: 
+
+  Lifting the mask mandate in Iowa was associated with an increase in new COVID-19 cases. Caution should be applied when making this type of policy decision before having achieved a more stable control of the pandemic.
+draft: false
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+projects: []
+slides: ""
+url_pdf: ""
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: 10.1097/MLR.0000000000001725
+publication: Medical Care
+tags: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
