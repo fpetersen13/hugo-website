@@ -43,7 +43,7 @@ abstract: >-
 
   Lifting the mask mandate in Iowa was associated with an increase in new COVID-19 cases. Caution should be applied when making this type of policy decision before having achieved a more stable control of the pandemic.
 draft: false
-featured: true
+featured: false
 projects: []
 slides: ""
 url_pdf: ""
