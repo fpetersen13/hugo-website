@@ -1,6 +1,7 @@
 ---
 title: Finn Petersen
 role: PhD Student
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Organizational Misconduct
