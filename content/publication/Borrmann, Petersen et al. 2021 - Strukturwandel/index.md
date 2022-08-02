@@ -10,7 +10,7 @@ authors:
 publication: Springer Gabler
 draft: false
 featured: false
-url_article: "https://link.springer.com/chapter/10.1007/978-3-658-28112-0_11"
+url_pdf: "https://link.springer.com/chapter/10.1007/978-3-658-28112-0_11"
 image:
   filename: ""
   focal_point: Smart
